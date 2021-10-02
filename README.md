@@ -1,1 +1,1 @@
-# accs-case-study-competition
+# accs-case-study
